@@ -16,6 +16,6 @@ public class Main {
         
         Water_Rectangular WR = new Water_Rectangular();
         output = WR.Rectangular(userValues);
-        System.out.println("The maximum contationer will be :" + output);
+        System.out.println("The maximum water container will be :" + output);
     }
 }//Main
